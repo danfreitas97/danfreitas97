@@ -29,7 +29,7 @@
 
 
 
-  <img align="right" alt="pic" height="120" style="border-radius:50px;" src="https://pics.me.me/thumb_hate-kids-with-anime-profile-pics-12425891.png">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://pics.me.me/thumb_hate-kids-with-anime-profile-pics-12425891.png">
 </div>
   
   ##
