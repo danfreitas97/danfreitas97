@@ -1,9 +1,9 @@
 <h1 align="center"> Daniel Freitas - Dev FullStack </h1>
 
-<div align="center" style="display: inline_block">
+<div align="center">
   <a href="https://danfreitas97.github.io">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danfreitas97&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danfreitas97&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danfreitas97&langs_count=7&theme=great-gatsby"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -38,7 +38,6 @@
     <a href="https://wa.me/5561992713489" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a href="https://steamcommunity.com/id/danielofreitas/" target="_blank"><img src=https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white></a>
 
- 
 ![Snake animation](https://github.com/danfreitas97/danfreitas97/blob/output/github-contribution-grid-snake.svg)
-  
+
 </div>
