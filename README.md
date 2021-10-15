@@ -42,4 +42,4 @@
   <a href="https://wa.me/5561992713489" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a href="https://steamcommunity.com/id/danielofreitas/" target="_blank"><img src=https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white></a>
  
-  ![Snake animation](https://github.com/
+![Snake animation](https://github.com/danfreitas97/danfreitas97/blob/output/github-contribution-grid-snake.svg)
