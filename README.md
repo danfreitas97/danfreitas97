@@ -1,7 +1,7 @@
 <h1 align="center"> Daniel Freitas - Dev FullStack </h1>
 
 <div align="center">
-  <a href="https://danfreitas97.github.io">
+  <a href="https://danfreitas97.github.io" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danfreitas97&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danfreitas97&langs_count=7&theme=great-gatsby"/>
 </div>
