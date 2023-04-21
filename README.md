@@ -24,7 +24,6 @@
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 
-  <img align="right" alt="pic" height="100" style="border-radius:50px;" src="https://pics.me.me/thumb_hate-kids-with-anime-profile-pics-12425891.png">
 
 </div>
   
