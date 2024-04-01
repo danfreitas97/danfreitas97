@@ -1,4 +1,4 @@
-<h1 align="center"> Daniel Freitas - Dev FullStack </h1>
+<h1 align="center"> Daniel Freitas - DevOps Engineer - Cloud Engineer </h1>
 
 <div align="center">
   <a href="https://danielfreitas.dev.br" target="_blank">
