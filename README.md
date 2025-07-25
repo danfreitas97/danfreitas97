@@ -23,5 +23,3 @@
 </table>
 
 ##
-
-![Snake animation](https://github.com/danfreitas97/danfreitas97/blob/output/github-contribution-grid-snake.svg)
