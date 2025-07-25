@@ -1,4 +1,4 @@
-<h1 align="center"> Daniel Freitas | DevOps Engineer | Blockchain Engineer </h1>
+<h1 align="center"> Daniel Freitas</h1>
 
 <div align="center">
 
